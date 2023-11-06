@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bgurl{
+  background-image: url(https://ntwist.com/wp-content/uploads/2023/01/home-image-bg-v6.png);
+  background-position: center;
+  background-size: cover;
+  /* background-repeat: no-repeat; */
+  height: 100vh;
+  width: 100%;
+}
